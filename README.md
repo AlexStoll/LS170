@@ -1,1 +1,2 @@
-# RB170 /n ### Launch School Course 170
+# LS170
+## Launch School Course 170
